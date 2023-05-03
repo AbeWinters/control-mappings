@@ -1,2 +1,4 @@
-# control-mappings
-Existing (or edited) mapping from and to cyber security controls
+# Security Control Mappings
+This repository contains a collection of existing (or edited) mappings from and to cyber security controls frmaeworks.
+
+
