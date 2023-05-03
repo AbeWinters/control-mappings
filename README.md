@@ -1,5 +1,5 @@
 # Security Control Mappings
-This repository contains a collection of existing (or edited) mappings from and to cyber security controls frameworks.
+This repository contains a collection of existing mappings from and to cyber security controls frameworks.
 
 #### NIST SP 800-53 rev. 5 -> MITRE ATT&CK
 Original file: [./nist800-53-r5-mappings.xlsx](./nist800-53-r5-mappings.xlsx)
