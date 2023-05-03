@@ -2,7 +2,7 @@
 This repository contains a collection of existing mappings from and to cyber security controls frameworks.
 
 #### NIST SP 800-53 rev. 5 -> MITRE ATT&CK
-Original file: [./nist800-53-r5-mappings.xlsx](./nist800-53-r5-mappings.xlsx)
+Original file: [nist800-53-r5-mappings.xlsx](./nist800-53-r5-mappings.xlsx)
 
 Source: [MITRE CTID](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings)
 
