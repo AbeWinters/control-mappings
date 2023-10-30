@@ -33,6 +33,9 @@ For this reason, CIS has specified the mapping relationship in their documents.
 
 The [CIS Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator) is a free tool with a dynamic list of the CIS Safeguards that can be filtered by Implementation Groups and **mappings to multiple frameworks**.
 
+[NIS2 Mappings to CIS](https://www.huntandhackett.com/blog/mapping-tool)
+[NIS2 Mappings to ISO 27001:2022](https://www.huntandhackett.com/blog/iso-mapping-tool)
+
 ## Previous overview
 
 ### NIST SP 800-53 rev. 5 -> MITRE ATT&CK
