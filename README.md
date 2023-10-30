@@ -1,6 +1,6 @@
 # Security Control Mappings
 
-This repository aims to collect existing mappings of cyber security controls. 
+This repository contains a collection of existing mappings of cyber security controls.
 Two type of mappings are included, both to [MITRE ATT&CK's](https://attack.mitre.org/) TTPs and to controls from other frameworks.
 Both types are presented in their respective folders, where the original source mappings are included.
 
@@ -35,7 +35,7 @@ For this reason, CIS has specified the mapping relationship in their documents.
 
 ## Altered and combined mappings
 
-I've altered the spreadsheet to a standard format and kept only the mappings themselves. This way they can be interpreted better by (custom) parsers and/or tooling.
+I've altered the spreadsheet to a standard format and removed columns aside from only the mappings themselves. This way they can be interpreted better by (custom) parsers and/or tooling.
 There are also new mappings created by combining the existing direct mappings from above.
 
 At the moment I am not sure if I can publicly share these altered mappings, might come soon.
